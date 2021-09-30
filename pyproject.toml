@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "style-transfer"
+version = "0.1.0"
+description = ""
+authors = ["chashi-mahiul-islam-bd <ci20l@my.fsu.edu>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+torch = "^1.9.1"
+torchaudio = "^0.9.1"
+torchvision = "^0.10.1"
+matplotlib = "^3.4.3"
+requests = "^2.26.0"
+click = "^8.0.1"
+
+[tool.poetry.dev-dependencies]
+gpustat = "^0.6.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
