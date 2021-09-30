@@ -7,7 +7,7 @@ Completed
 This repo contains the code base for transfering one image's style to another image. This is an implementation of a paper named "Image Style Transfer Using Convolutional Neural Networks". Paper link: https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf
 
 ## Project Description
- Iused a pretrained VGG 19 network.  I extracted the content and style representationsof images from unique layers.  The aim was to create a new target image that tries tobalance the content of one image with the style of another. I usedPyTorchfor buildingthe whole architecture.
+ I used a pretrained VGG 19 network.  I extracted the content and style representationsof images from unique layers.  The aim was to create a new target image that tries tobalance the content of one image with the style of another. I usedPyTorchfor buildingthe whole architecture.
 
 ## Installation   
  * git clone https://github.com/Chashi-Mahiul-Islam/style-transfer.git
