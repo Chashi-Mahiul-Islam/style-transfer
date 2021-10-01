@@ -11,7 +11,7 @@ This repo contains the code base for transfering one image's style to another im
 
 ## Installation   
  * git clone https://github.com/Chashi-Mahiul-Islam/style-transfer.git
- * Run "poetry install" from root directory to install all required libraries/home/ram/.cache/pypoetry/virtualenvs/tsprediction-Yr_4QMnV-py3.8
+ * Run "poetry install" from root directory to install all required libraries
  * Run "poetry shell" to activate the virtual env
  * To run the project follow the Usage
  
