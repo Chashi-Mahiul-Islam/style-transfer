@@ -36,6 +36,9 @@ This repo contains the code base for transfering one image's style to another im
 
 ``` python3 driver.py --source="style_transfer/images/hockney.jpg" --target="style_transfer/images/octopus.jpg"  ``` 
 
+## Example output
+![alt text](https://github.com/Chashi-Mahiul-Islam/style-transfer/blob/master/style_transfer/images/st1.png)
+![alt text](https://github.com/Chashi-Mahiul-Islam/style-transfer/blob/master/style_transfer/images/st2.png)
 
 ### Technologies
 * Python
